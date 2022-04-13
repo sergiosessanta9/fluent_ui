@@ -135,6 +135,7 @@ const List<Locale> defaultSupportedLocales = <Locale>[
   Locale('es'),
   Locale('fr'),
   Locale('hi'),
+  Locale('it'),
   Locale('pt'),
   Locale('ru'),
   Locale('zh'),
